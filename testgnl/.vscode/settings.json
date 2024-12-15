@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "fcntl.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "get_next_line_bonus.h": "c"
+    }
+}
